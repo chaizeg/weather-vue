@@ -110,7 +110,6 @@ button {
   margin: 60px 0 0;
 }
 img {
-  /* margin-bottom: 40px; */
   margin: 40px 10px 40px 10px;
 }
 .row{
