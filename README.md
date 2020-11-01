@@ -1,6 +1,6 @@
 # Weather
 
-Enter the name of a city, this SPA will show its current weather
+Enter the name of a city for this SPA to show you its current weather.
 
 
 ## Project setup
